@@ -1,2 +1,2 @@
 # Pedido de Yakissoba
-Um programa simples com HTML, CSS e Javascript pedindo um yakissoba.
+Um programa simples com HTML e CSS pedindo um yakissoba.
